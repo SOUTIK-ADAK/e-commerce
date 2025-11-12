@@ -1,0 +1,1 @@
+- [ ] Modify Placeorder.tsx: Change onClick for Stripe and Razorpay payment options to show toast error message instead of selecting them.
